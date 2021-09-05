@@ -1,0 +1,17 @@
+baseURL = 'https://irvingmg.com/'
+languageCode = 'en-us'
+title = 'IrvingMg'
+
+theme = "paper"
+[params]
+# color style
+color = 'linen'                           # linen, wheat, gray, light
+
+# header social icons
+github = 'IrvingMg'
+linkedin = '/in/irvingmg'
+twitter = 'IrvingMg_'
+
+# misc
+disableHLJS = true                        # disable highlight.js
+monoDarkIcon = true                       # show monochrome dark mode icon
