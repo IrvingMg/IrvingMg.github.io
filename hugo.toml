@@ -16,7 +16,7 @@ avatar = 'https://irvingmg.com/avatar.png'
 
 # header social icons
 github = 'IrvingMg'
-linkedin = '/in/irvingmg'
+linkedin = 'irvingmg'
 
 # misc
 disableHLJS = true                        # disable highlight.js
