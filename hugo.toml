@@ -1,0 +1,24 @@
+baseURL = 'https://irvingmg.com/'
+languageCode = 'en-us'
+title = 'IrvingMg'
+
+theme = "paper"
+
+[params]
+# color style
+color = 'linen'                           # linen, wheat, gray, light
+description = 'Notes on what I learn, the projects I build, and the technical references I keep handy—by Irving Mondragón, a backend and cloud engineer.'
+
+# intro
+name = 'Irving Mondragón'
+bio = 'Notes on what I learn, the projects I build, and the technical reminders I want to keep handy.'
+avatar = 'https://irvingmg.com/avatar.png'
+
+# header social icons
+github = 'IrvingMg'
+linkedin = '/in/irvingmg'
+
+# misc
+disableHLJS = true                        # disable highlight.js
+monoDarkIcon = true                       # show monochrome dark mode icon
+favicon = 'favicon.png'

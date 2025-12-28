@@ -1,19 +1,20 @@
 ---
 title: "About"
-date: 2023-05-14T00:29:14+02:00
+date: 2025-12-28
 draft: false
-menu: "main"
+menu:
+  main:
+    weight: 2
 ---
 
-My name is *Irving Mondragón* and I'm from Mexico. I am a Computer Engineer who is passionate about designing and
-building new products, applying cutting-edge technologies, for solving real-world problems.
-Constantly searching for side projects to participate in which enable me to learn new tech skills.
+Welcome! I’m Irving Mondragón, a Software Engineer focused on cloud and backend systems. I primarily work with Go and enjoy contributing to open-source projects to explore new areas and technologies.
 
-If you'd like to know more about my projects, take a look at my [GitHub](https://github.com/IrvingMg).
+### What do I work with?
 
-## How to get in touch?
+💻 Go · 🐳 Docker · ☸️ Kubernetes
 
-If you have any questions, suggestions, or observations, please let me know.
+### How to reach me?
 
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/irvingmg) and/or [Twitter](https://twitter.com/IrvingMg_).
-- If you prefer emails, you can email me at [me@irvingmg.com](mailto:me@irvingmg.com).
+- 🐙 GitHub: [IrvingMg](https://github.com/IrvingMg)
+- 💼 LinkedIn: [/in/irvingmg](https://www.linkedin.com/in/irvingmg)
+- 📧 Email: [me@irvingmg.com](mailto:me@irvingmg.com)
