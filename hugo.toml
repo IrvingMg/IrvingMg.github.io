@@ -1,6 +1,6 @@
 baseURL = 'https://irvingmg.com/'
 languageCode = 'en-us'
-title = 'IrvingMg'
+title = "Irving's Blog"
 
 theme = "paper"
 
@@ -10,9 +10,7 @@ color = 'linen'                           # linen, wheat, gray, light
 description = 'Notes on what I learn, the projects I build, and the technical references I keep handy—by Irving Mondragón, a backend and cloud engineer.'
 
 # intro
-name = 'Irving Mondragón'
 bio = 'Notes on what I learn, the projects I build, and the technical reminders I want to keep handy.'
-avatar = 'https://irvingmg.com/avatar.png'
 
 # header social icons
 github = 'IrvingMg'
